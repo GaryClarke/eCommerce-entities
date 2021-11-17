@@ -1,0 +1,32 @@
+- view multiple products page
+- select individual product -> product page
+- add to basket / buy now
+- look at basket
+- proceed to checkout
+- enter delivery address
+- enter card details
+- complete payment
+- send confirmation email
+- show order confirmation page
+
+
+1. One anonymous customer to be able to view a page of products,
+2. Choose one product that they are interested in
+3. Click buy it now to redirect to a checkout page
+4. Enter delivery details
+5. Enter payment details
+6. Complete the order
+
+products
+
+
+
+
+
+
+
+
+
+
+
+

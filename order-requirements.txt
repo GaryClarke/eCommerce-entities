@@ -1,0 +1,21 @@
+💳Order
+✅ Id
+✅ DeliveryAddress
+✅ DeliveryName
+❌ Status
+✅ CreatedAt
+❌ Discount
+❌ DispatchedAt
+
+💳🥁 Item
+✅ Id
+✅ OrderId
+✅ ProductId
+✅ Price
+❌ Quantity
+✅ CreatedAt
+❌ RemovedAt
+
+
+
+
